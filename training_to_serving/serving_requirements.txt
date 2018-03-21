@@ -1,0 +1,4 @@
+tensorflow==1.4.0
+grpcio==1.8.4
+h5py==2.7.1
+keras==2.1.4
